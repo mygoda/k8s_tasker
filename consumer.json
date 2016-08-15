@@ -31,7 +31,7 @@
 				}
 			],
 			"workingDir": "/data/workspace/cdscp/tasker/",
-			"command": ["/bin/sh", "-c", "python taskconsumer.py test"],
+			"command": ["/bin/sh", "-c", "python taskconsumer.py run test"],
 			"env": [
 				{
 					"name": "MY_POD_NAME",
